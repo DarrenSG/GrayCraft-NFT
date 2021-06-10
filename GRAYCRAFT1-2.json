@@ -1,0 +1,39 @@
+{
+    "name": "GRAYCRAFT1-2",
+    "created_by": "GRAY",
+    "external_url": "https://gray.inc",
+    "description": "Escape the ordinary. Emerging from the shadows, GRAYCRAFT1-2 does not crave the limelight, choosing instead to let its magnetic aura do the talking. With a silent confidence, the attraction is undeniable. The only question is - where would you drive it?",
+    "image": "https://arweave.net/0P3LTFpVUSORL5kixbFD_VaKFsYFSUXpNeO6yv9lJpA",
+    "image_url": "https://arweave.net/0P3LTFpVUSORL5kixbFD_VaKFsYFSUXpNeO6yv9lJpA",
+    "image_details": {
+        "sha256": "84EEB9BE30E467C561D09E16444F773E117677CD77618D055C0CD33DBC695B37",
+        "bytes": 658401,
+        "width": 1080,
+        "height": 1350,
+        "format": "JPG"
+    },
+    "animation": "https://arweave.net/gvPM5nyBTiFcarkAqx1G8_tTqp_MNiZMllCiktMvJAM",
+    "animation_url": "https://arweave.net/gvPM5nyBTiFcarkAqx1G8_tTqp_MNiZMllCiktMvJAM",
+    "animation_details": {
+        "sha256": "1756129EFF831477E7901A867D62919AA14D65937F405FEE9B431F2CDAC55F6C",
+        "bytes": 48272063,
+        "width": 1080,
+        "height": 1350,
+        "duration": 40,
+        "format": "MP4",
+        "codecs": [
+            "AAC",
+            "H.264"
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "COLLECTION",
+            "value": "GRAYCRAFT1"
+        },
+        {
+            "trait_type": "MODEL",
+            "value": "GRAYCRAFT1-2"
+        }
+    ]
+}

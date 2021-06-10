@@ -1,0 +1,39 @@
+{
+    "name": "GRAYCRAFT1-4 #7/25",
+    "created_by": "GRAY",
+    "external_url": "https://gray.inc",
+    "description": "Seeing red doesn’t have to be a bad thing. Love. Anger. Passion. Hatred. Is there any colour more polarising than red? Whichever way you see it, GRAYCRAFT1-4 is not one for the faint hearted. Love it or hate it, you just can’t ignore it.",
+    "image": "https://arweave.net/CiS1EBv7Nmcxiz2GwVMC-PffzbsaqW36ARU75h7U52U",
+    "image_url": "https://arweave.net/CiS1EBv7Nmcxiz2GwVMC-PffzbsaqW36ARU75h7U52U",
+    "image_details": {
+        "sha256": "1FE4B7B32C967ACFB026B2534DE3143A2EBB1B9DFA187D2BC7F53082A533D4FA",
+        "bytes": 854264,
+        "width": 1080,
+        "height": 1350,
+        "format": "JPG"
+    },
+    "animation": "https://arweave.net/55pM5pGpgSpIUOXiatXZ2OVuzH7TmK_JlMN6NLY0rqs",
+    "animation_url": "https://arweave.net/55pM5pGpgSpIUOXiatXZ2OVuzH7TmK_JlMN6NLY0rqs",
+    "animation_details": {
+        "sha256": "1BAF8EDEDF076EDB63CE877BBBD777E5020C4F40AB40CBF5291AEE740C6181E7",
+        "bytes": 49604936,
+        "width": 1080,
+        "height": 1350,
+        "duration": 16,
+        "format": "MP4",
+        "codecs": [
+            "AAC",
+            "H.264"
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "COLLECTION",
+            "value": "GRAYCRAFT1"
+        },
+        {
+            "trait_type": "MODEL",
+            "value": "GRAYCRAFT1-4"
+        }
+    ]
+}

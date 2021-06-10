@@ -1,0 +1,39 @@
+{
+    "name": "GRAYCRAFT1-6 #15/15",
+    "created_by": "GRAY",
+    "external_url": "https://gray.inc",
+    "description": "Who are you when nobody is watching? GRAYCRAFT1-6 takes subtlety to the next level. Like a chameleon blending effortlessly into the background, GRAYCRAFT1-6 is a floating mirage, rarely seen but always there.  Now you see it, now you don’t.",
+    "image": "https://arweave.net/XkWZ2fNzVJ5Wf4sVWs3duFlEbKfcbaKzVrNt-aX-Uow",
+    "image_url": "https://arweave.net/XkWZ2fNzVJ5Wf4sVWs3duFlEbKfcbaKzVrNt-aX-Uow",
+    "image_details": {
+        "sha256": "193DE21BC8D929F24AC02D9C1C927233E56E8F11492C1311F080E3333BA23FD1",
+        "bytes": 910743,
+        "width": 1080,
+        "height": 1350,
+        "format": "JPG"
+    },
+    "animation": "https://arweave.net/_IcxXkqvHJHX-Jr6seAgZi_W_xMNre3DjDsX2UUlTEw",
+    "animation_url": "https://arweave.net/_IcxXkqvHJHX-Jr6seAgZi_W_xMNre3DjDsX2UUlTEw",
+    "animation_details": {
+        "sha256": "22D93672315A01EA493CFBD1CD4E74FF9BE311B75C40030C45F4EE3C607320DF",
+        "bytes": 49388307,
+        "width": 1080,
+        "height": 1350,
+        "duration": 16,
+        "format": "MP4",
+        "codecs": [
+            "AAC",
+            "H.264"
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "COLLECTION",
+            "value": "GRAYCRAFT1"
+        },
+        {
+            "trait_type": "MODEL",
+            "value": "GRAYCRAFT1-6"
+        }
+    ]
+}

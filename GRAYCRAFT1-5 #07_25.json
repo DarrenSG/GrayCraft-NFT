@@ -1,0 +1,39 @@
+{
+    "name": "GRAYCRAFT1-5 #7/25",
+    "created_by": "GRAY",
+    "external_url": "https://gray.inc",
+    "description": "Send chills down your spine. GRAYCRAFT1-5 is inspired by the ruthless attention to detail needed to create the future. Calculating every next step with chilling precision, what you see on the surface is just the tip of the iceberg. Your move.",
+    "image": "https://arweave.net/BimlPONc-41F9oSsXQV8QpakY-8ah4EGgxnnNxlUeDI",
+    "image_url": "https://arweave.net/BimlPONc-41F9oSsXQV8QpakY-8ah4EGgxnnNxlUeDI",
+    "image_details": {
+        "sha256": "7D0F848B4075E6691B1DF9E1773807E5A7A4035DADBF4921C1B88A6DD77A3303",
+        "bytes": 878065,
+        "width": 1080,
+        "height": 1350,
+        "format": "JPG"
+    },
+    "animation": "https://arweave.net/Vj3NubhU1nNRghSzjuhh057q_NLZ6XxDMJz99Vhx2E0",
+    "animation_url": "https://arweave.net/Vj3NubhU1nNRghSzjuhh057q_NLZ6XxDMJz99Vhx2E0",
+    "animation_details": {
+        "sha256": "9F26B80CC6EE1C282D64C7F3353610342D36DE8ED451347B0B92E959A218EF2A",
+        "bytes": 49417915,
+        "width": 1080,
+        "height": 1350,
+        "duration": 16,
+        "format": "MP4",
+        "codecs": [
+            "AAC",
+            "H.264"
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "COLLECTION",
+            "value": "GRAYCRAFT1"
+        },
+        {
+            "trait_type": "MODEL",
+            "value": "GRAYCRAFT1-5"
+        }
+    ]
+}

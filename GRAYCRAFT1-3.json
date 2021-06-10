@@ -1,0 +1,39 @@
+{
+    "name": "GRAYCRAFT1-3",
+    "created_by": "GRAY",
+    "external_url": "https://gray.inc",
+    "description": "Come a little bit closer. The fullest and brightest moon of the season, the harvest moon is the guiding light with which farmers depended on to harvest their summer-grown crop. Like the harvest moon, GRAYCRAFT1-3 shines pure light into the darkness, illuminating the way ahead for all who are lost. Welcome home.",
+    "image": "https://arweave.net/hNLxDzAP_qnVwH_M4oERWNRbY1pPJL93PJ4oFUbSUC0",
+    "image_url": "https://arweave.net/hNLxDzAP_qnVwH_M4oERWNRbY1pPJL93PJ4oFUbSUC0",
+    "image_details": {
+        "sha256": "97E9717E6AFC44797A8E4A491BA2FEDD6521BDE60EB84A442688A48419E0CDB1",
+        "bytes": 1092807,
+        "width": 1080,
+        "height": 1350,
+        "format": "JPG"
+    },
+    "animation": "https://arweave.net/b7S0y3y3FRKEMgsDe7ptxUh_uNx2Ev_A9z9beaikzrQ",
+    "animation_url": "https://arweave.net/b7S0y3y3FRKEMgsDe7ptxUh_uNx2Ev_A9z9beaikzrQ",
+    "animation_details": {
+        "sha256": "CBAF08DA1F91A08C7BC4A3037C12931BC37E850E78A1392F867C57ABD3A0B0B4",
+        "bytes": 48884170,
+        "width": 1080,
+        "height": 1350,
+        "duration": 40,
+        "format": "MP4",
+        "codecs": [
+            "AAC",
+            "H.264"
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "COLLECTION",
+            "value": "GRAYCRAFT1"
+        },
+        {
+            "trait_type": "MODEL",
+            "value": "GRAYCRAFT1-3"
+        }
+    ]
+}
